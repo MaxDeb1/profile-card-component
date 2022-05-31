@@ -1,5 +1,7 @@
 # Frontend Mentor - Profile card component
 
+[Live site](https://maxdeb1.github.io/profile-card-component/)
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
